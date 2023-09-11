@@ -1,5 +1,5 @@
 <?php 
-$items    = 3;
+$items    = 5;
 $cost     = 10;
 $subtotal = $cost * $items;
 $tax      = ($subtotal / 100) * 20;
